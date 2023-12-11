@@ -1,0 +1,100 @@
+[0]   Thread 0 (0) Create
+Begin skipping: requested 0 instructions
+
+End skipping: requested 0 skipped 0
+
+[286875537]   Thread 0 (0) Exit
+
+
+======================= Coherence message stat ======================
+
+	ReadRequest                   	728697
+	ExclusiveReply                	794482
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	65785
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	793458
+	WriteBackBusyAck              	0
+	WriteBackRequest              	793458
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	71274
+	MeshMemAccess                 	87835
+	MeshMemAccessReply            	0
+	NOP                           	0
+
+
+
+
+======================= Network selection stat ======================
+
+	SIZE         : 104835968
+
+
+======================= Message per Network selection stat ======================
+
+	ReadRequest                   	528717
+	ExclusiveReply                	579618
+	IntervSharedRequest           	0
+	SpeculativeReply              	0
+	SharedReply                   	0
+	SharedResponse                	0
+	SharingWriteBack              	0
+	SharedAck                     	0
+	SharingTransfer               	0
+	WriteRequest                  	50901
+	Invalidation                  	0
+	InvalidationAck               	0
+	ExclusiveReplyInv             	0
+	IntervExRequest               	0
+	ExclusiveResponse             	0
+	DirtyTransfer                 	0
+	ExclusiveAck                  	0
+	UpgradeRequest                	0
+	ExclusiveReplyInvND           	0
+	WriteBackExAck                	578850
+	WriteBackBusyAck              	0
+	WriteBackRequest              	578850
+	TokenBackRequest              	0
+	NAK                           	0
+	MeshMemPush                   	71274
+	MeshMemAccess                 	87835
+	MeshMemAccessReply            	87835
+	NOP                           	0
+
+
+	MultipleDestInvalidation : 0
+	TotDestInvalidation : 0
+
+
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->2338
+[1-19]1056,1733,751,69.7665
+[20-199]473,62505,3550,94.6257
+[200-1999]155,144222,3970,97.321
+[2000+]654,20725944,1057765,95.1442
+TOTAL:2338
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
+Distinct Branch Instructions (static instruction count)---->0
